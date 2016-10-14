@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name myUserJS
-// @description UserScript For solve telegram math game. you can change 50 for any score you want
+// @description UserScript For solving telegram math game. you can change 50 for any score you want
 // @author Zhakov Nikita
 // @license MIT
 // @version 1.0
